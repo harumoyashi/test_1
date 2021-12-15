@@ -3,7 +3,6 @@
 int main() {
 	printf("hello world git!");
 
-	printf("ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚Å•ÏX");
-
+	printf("ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆã—ã¦ãŸã‹ã‚‰å¤‰æ›´ã—ãŸã‚ˆ");
 	return 0;
 }
